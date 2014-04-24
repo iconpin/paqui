@@ -1,0 +1,22 @@
+{
+  "site": {
+    "name": "dimARt.io",
+    "url": "http://dimart.io"
+  },
+  "authors": [{
+    "name": "Carlos Person",
+    "twitter": "carlosperson"
+  },
+  {
+    "name": "Christine Doig",
+    "twitter": "chdoig"
+  },
+  {
+    "name": "Ignacio Contreras",
+    "twitter": "iconpin"
+  },
+  {
+    "name": "Isaac Obradors",
+    "twitter": "isaacobradors"
+  }]
+}

@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>{{ site.name }}</title>
+</head>
+<body>
+<div class="container">
+  <div class="title">
+    <h1>dimARt.io</h1>
+  </div>
+  <div class="team">
+    <p>The team:</p>
+    {% for author in authors %}
+    <li><a href="https://twitter.com/{{ author.twitter }}" target="_blank">{{ author.name }}</a></li>
+    {% endfor %}
+  </div>
+</div>
+</body>
+</html>
